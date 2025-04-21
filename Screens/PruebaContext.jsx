@@ -12,7 +12,7 @@ export default function App({ navigation }) {
     <View>
       <Text>URL del Backend:</Text>
       <Text>{apiUrl}</Text> {}
-      <Text>Endpoint de prueba:</Text>
+      <Text>Endpoint de prueba sin datos:</Text>
       <Text>{testEndpoint}</Text> {}
       <Button
         title="Cambiar URL"
