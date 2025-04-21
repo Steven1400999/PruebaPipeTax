@@ -30,7 +30,7 @@ export default function Calculadora({ navigation }) {
 
   return (
     <View style={styles.container}>
-      <Text style={styles.titulo}>Prueba para sumar dos numeros</Text>
+      <Text style={styles.titulo}>Prueba para sumar dos numeros enteros</Text>
 
       <TextInput
         style={styles.input}
